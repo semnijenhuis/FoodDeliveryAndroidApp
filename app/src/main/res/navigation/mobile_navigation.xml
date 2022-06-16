@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.fooddelivery1.Activitys.Main.Home"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_basket"
+        android:name="com.example.fooddelivery1.Activitys.Main.Basket"
+        android:label="@string/title_basket"
+        tools:layout="@layout/2fragment_basket" />
+
+    <fragment
+        android:id="@+id/navigation_restaurants"
+        android:name="com.example.fooddelivery1.Activitys.Main.Restaurants"
+        android:label="@string/title_restaurants"
+        tools:layout="@layout/fragment_restaurants" />
+</navigation>

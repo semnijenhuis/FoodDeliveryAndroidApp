@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FoodDelivery1</string>
+    <string name="home_quote">\"Er is geen puurdere liefde dan de liefde van eten\"</string>
+    <string name="restaurants_searchText">Wat zullen we eten?</string>
+    <string name="shopping_Cart_delivery_price">Bestelkosten : $</string>
+    <string name="shopping_Cart_tax">9% Btw : $</string>
+    <string name="shopping_Cart_total">Totaal : $</string>
+    <string name="shopping_Cart_total_price">Totale prijs : $</string>
+    <string name="title0_dish">Voeg een gerecht toe!</string>
+    <string name="title0_restaurant">Voeg een restaurant toe!</string>
+    <string name="title1_clock">Kijk hoe laat het is!</string>
+    <string name="title1_dish">Naam</string>
+    <string name="title1_restaurant">Naam</string>
+    <string name="title2_clock">HET IS TIJD OM TE ETEN!</string>
+    <string name="title2_dish">Ingrediënten</string>
+    <string name="title2_restaurant">Keuken</string>
+    <string name="title3_dish">Prijs</string>
+    <string name="title3_restaurant">Adres</string>
+    <string name="title4_dish">Opslaan?</string>
+    <string name="title4_restaurant">Opslaan?</string>
+    <string name="title5_dish">Verander een gerecht</string>
+    <string name="title_basket">Mandje</string>
+    <string name="title_home">Thuis</string>
+    <string name="title_restaurants">Restaurant</string>
+    <string name="title_shopping_Cart">Winkelmandje</string>
+    <string name="title5_restaurant">Verander een restaurant!</string>
+    <string name="home_question">Is het tijd om te eten? laten we kijken!</string>
+</resources>

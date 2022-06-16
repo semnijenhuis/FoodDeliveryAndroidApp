@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">FoodDelivery1</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_basket">Basket</string>
+    <string name="title_restaurants">Restaurants</string>
+
+    <string name="home_quote">“There is no love sincerer than the love of food.”</string>
+    <string name="home_question">Is it time to eat? lets check!</string>
+
+
+    <string name="restaurants_searchText">What shall we eat?</string>
+
+    <string name="title0_restaurant">Let\'s add a new restaurant</string>
+    <string name="title1_restaurant">Name</string>
+    <string name="title2_restaurant">Kitchen</string>
+    <string name="title3_restaurant">Address</string>
+    <string name="title4_restaurant">Save data?</string>
+    <string name="title5_restaurant">Lets change it!</string>
+
+    <string name="title0_dish">Let\'s add a  new dish!</string>
+    <string name="title1_dish">Name</string>
+    <string name="title2_dish">Ingredients</string>
+    <string name="title3_dish">Price</string>
+    <string name="title4_dish">Save data?</string>
+    <string name="title5_dish">Lets change a dish!</string>
+
+    <string name="title_shopping_Cart">Shoppingbasket</string>
+    <string name="shopping_Cart_total">Total : $</string>
+    <string name="shopping_Cart_tax">9% tax : $</string>
+    <string name="shopping_Cart_delivery_price">Delivery price : $</string>
+    <string name="shopping_Cart_total_price">Total price : $</string>
+
+    <string name="title1_clock">Look how late it is!</string>
+    <string name="title2_clock">ITS TIME TO EAT!</string>
+
+</resources>
